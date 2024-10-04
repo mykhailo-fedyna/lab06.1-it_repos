@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C220E06-678D-4A78-88F0-78333B2AE051}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0C220E06-678D-4A78-88F0-78333B2AE051}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FE23B92-B084-4725-88CE-E3A81E3836CA}|lab6.1(it).vcxproj|C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\lab6.1(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9FE23B92-B084-4725-88CE-E3A81E3836CA}|lab6.1(it).vcxproj|solutionrelative:lab6.1(it).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C220E06-678D-4A78-88F0-78333B2AE051}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C220E06-678D-4A78-88F0-78333B2AE051}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UnitTest1.cpp",
               "DocumentMoniker": "C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\UnitTest1\\UnitTest1.cpp",
               "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
               "ToolTip": "C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\UnitTest1\\UnitTest1.cpp",
               "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T18:00:13.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "lab6.1(it).cpp",
               "DocumentMoniker": "C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\lab6.1(it).cpp",
               "RelativeDocumentMoniker": "lab6.1(it).cpp",
               "ToolTip": "C:\\Users\\\u0424\u0435\u0434\u0438\u043D\u0430 \u041C\\Desktop\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u0456 \u0410\u041F\\lab6.1(it)\\lab6.1(it).cpp",
               "RelativeToolTip": "lab6.1(it).cpp",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-03T17:59:09.569Z",
               "EditorCaption": ""

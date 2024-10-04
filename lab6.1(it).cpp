@@ -14,6 +14,14 @@ void Print(int* r, const int size)
 		cout << setw(4) << r[i];
 	cout << endl;
 }
+int CountElements(int* r, const int size)
+{
+	int count_element = 0;
+	for (int i = 0; i < size; i++)
+		if ((r[i] % 6 == 0) || !(i % 5 == 0))
+			count_element++;
+	return count_element;
+}
 int Sum(int* r, const int size, int& count_element)
 {
 	int S = 0;
@@ -27,6 +35,12 @@ int Sum(int* r, const int size, int& count_element)
 		}
 	return S;
 }
+void ReplaceElements(int* r, const int size)
+{
+	for (int i = 0; i < size; i++)
+		if ((r[i] % 6 == 0) || !(i % 5 == 0))
+			r[i] = 0;
+}
 int main()
 {
 	srand((unsigned)time(NULL));
@@ -34,11 +48,11 @@ int main()
 	int r[n];
 	int Low = 4;
 	int High = 73;
-	int count_element;
 	Create(r, n, Low, High);
 	Print(r, n);
-
+	int count_element = CountElements(r, n);
 	int sum = Sum(r, n, count_element);
+	ReplaceElements(r, n);
 	cout << "S = " << sum << endl;
 	cout << "Count of element = " << count_element << endl;
 	Print(r, n);
